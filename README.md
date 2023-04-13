@@ -22,7 +22,7 @@ conda install -c conda-forge cookiecutter
 En el directorio en el que quieras guardar tu proyecto generado:
 
 ```bash
-cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cookiecutter-personal-platzi
+cookiecutter https://github.com/KeyrunMZ --checkout cookiecutter-personal
 ```
 
 ## Estructura de directorios y archivos resultantes    
